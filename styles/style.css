@@ -215,7 +215,7 @@ nav a{
 .address-wrapper{
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    transform: translateY(150%);
+   
     
 }
 .address-wrapper h2{
@@ -224,15 +224,15 @@ nav a{
     font-family:Georgia, 'Times New Roman', Times, serif;
     color: cornflowerblue ; 
     text-align: center;
-    margin-left: 70px;
-    transform: translateX(15%);
+    
+    transform: translateY(600%);
 }
 .address {
-    text-align: center;
+    text-align: left;
     font-family: Georgia, 'Times New Roman', Times, serif;
     letter-spacing: 1px;
     margin-left: 400px ;
-    margin-top: 30px;
+    margin-top: 300px;
 
 }
 .bottom-footer{
